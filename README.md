@@ -17,8 +17,8 @@ nni >=2.0 (python3 -m pip install --upgrade nni)
 
 ## Datasets
 
-## Training Process
+## Training 
 
-## Testing Process
+## Testing 
 
 ## References
