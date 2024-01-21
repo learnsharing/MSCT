@@ -1,5 +1,5 @@
 # MSCT
-Small Target Cluster Tracking Method Based on Memory Enhancement
+A Memory-enhanced Small-target Cluster Tracking Method for Unduplicated Crowd Counting in Aerial Videos
 
 ## Introduction
 
