@@ -18,8 +18,8 @@ nni >=2.0 (python3 -m pip install --upgrade nni)
 
 ## Datasets
 
-- Download training datasets from here
-- Download testing datasets from here
+- Download training datasets will be announced
+- Download testing datasets will be announced
 
 ## Training
 
