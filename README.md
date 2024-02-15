@@ -45,4 +45,10 @@ python impressed/test.py
 python MSCT.py --sequence_dir=./deatsets/test/test1 --detection_file=./resources/test1.npy --display=True
 ```
 
+## Demo
+![img](imgs/demo1.gif)
+![img](imgs/demo2.gif)
+![img](imgs/demo3.gif)
+![img](imgs/demo4.gif)
+
 ## References
