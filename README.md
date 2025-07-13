@@ -1,5 +1,5 @@
 # MSCT
-A Memory-enhanced Small-target Cluster Tracking Method for Unduplicated Crowd Counting in Aerial Videos
+A Memory-enhanced Small-target Cluster Tracking Method for Unduplicated Crowd Counting in Aerial Videos. This repository contains a [Pytorch](https://pytorch.org/) implementation for our [MSCT](https://yzueducn-my.sharepoint.com/:f:/g/personal/zhangxf_yzu_edu_cn/EktMPSTpJndHgUtb7NMnZeoBDlEyAhjwngS2CR9n2_maaQ). Our code is released only for scientific or personal use. Please contact us for commercial use.
 
 ## Introduction
 
@@ -17,12 +17,7 @@ nni >=2.0 (python3 -m pip install --upgrade nni)
 ```
 
 ## Aerial Datasets
-
-Download Aerial dataset from this [link]([https://motchallenge.net/data/Head_Tracking_21/](https://yzueducn-my.sharepoint.com/:f:/g/personal/zhangxf_yzu_edu_cn/Erzew7eKpgREjqZ7b-ZpAZwBpI-0bHFdFXFodMxRs4iEGw?e=QacvhV)).
-
-# MSCT
-
-This repository contains a [Pytorch](https://pytorch.org/) implementation for our [MSCT](https://yzueducn-my.sharepoint.com/:f:/g/personal/zhangxf_yzu_edu_cn/EktMPSTpJndHgUtb7NMnZeoBDlEyAhjwngS2CR9n2_maaQ). Our code is released only for scientific or personal use. Please contact us for commercial use.
+Download Aerial dataset from this [link](https://yzueducn-my.sharepoint.com/:f:/g/personal/zhangxf_yzu_edu_cn/EktMPSTpJndHgUtb7NMnZeoBDlEyAhjwngS2CR9n2_maaQ)
 
 ## Training
 
